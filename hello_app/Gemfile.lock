@@ -78,7 +78,10 @@ GEM
     multi_json (1.11.2)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
+<<<<<<< HEAD
     pg (0.17.1)
+=======
+>>>>>>> 911d1ac953bc3dcc25ff74ebff5466ef5805720e
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -101,11 +104,14 @@ GEM
       rails-deprecated_sanitizer (>= 1.0.1)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
+<<<<<<< HEAD
     rails_12factor (0.0.2)
       rails_serve_static_assets
       rails_stdout_logging
     rails_serve_static_assets (0.0.5)
     rails_stdout_logging (0.0.4)
+=======
+>>>>>>> 911d1ac953bc3dcc25ff74ebff5466ef5805720e
     railties (4.2.2)
       actionpack (= 4.2.2)
       activesupport (= 4.2.2)
@@ -121,9 +127,15 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (~> 1.1)
+<<<<<<< HEAD
     sdoc (0.4.0)
       json (~> 1.8)
       rdoc (~> 4.0, < 5.0)
+=======
+    sdoc (0.4.1)
+      json (~> 1.7, >= 1.7.7)
+      rdoc (~> 4.0)
+>>>>>>> 911d1ac953bc3dcc25ff74ebff5466ef5805720e
     slop (3.6.0)
     spring (1.1.3)
     sprockets (3.5.2)
@@ -158,11 +170,17 @@ DEPENDENCIES
   coffee-rails (= 4.1.0)
   jbuilder (= 2.2.3)
   jquery-rails (= 4.0.3)
+<<<<<<< HEAD
   pg (= 0.17.1)
   rails (= 4.2.2)
   rails_12factor (= 0.0.2)
   sass-rails (= 5.0.2)
   sdoc (= 0.4.0)
+=======
+  rails (= 4.2.2)
+  sass-rails (= 5.0.2)
+  sdoc (~> 0.4.0)
+>>>>>>> 911d1ac953bc3dcc25ff74ebff5466ef5805720e
   spring (= 1.1.3)
   sqlite3 (= 1.3.9)
   turbolinks (= 2.3.0)
