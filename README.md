@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -18,9 +17,7 @@ http://www.youtube.com/user/c9ide.
 Happy coding!
 The Cloud9 IDE team
 
-=======
-# 17up
-17up
+----------------------------------------------------------
 www.17-up.com 
 website :Powerby Ruby on Rails .2015
 Tools by Cloud9
@@ -29,4 +26,3 @@ Tools by Cloud9
 这是一个初始版本
 
 Github & BitBucket
->>>>>>> 911d1ac953bc3dcc25ff74ebff5466ef5805720e
